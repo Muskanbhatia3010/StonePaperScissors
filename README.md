@@ -1,2 +1,2 @@
 # stonepaperscissorgame
-This is a basic JS HTML CSS game (1)
+This is a basic JS HTML CSS game.
